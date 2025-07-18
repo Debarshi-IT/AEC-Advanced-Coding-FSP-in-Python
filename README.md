@@ -1,60 +1,106 @@
 # Competitive_Coding_AEC_July_2025_Batch_4
 ✅ BitBucket Link: https://bitbucket.org/toarnabtrainer/aec_cc_batch_4_july_2025/src/main/ or https://tinyurl.com/z78xmbms
+
 ✅ Online Session MS-Teams Link for all sessions: https://tinyurl.com/2s3yxjnr
+
 ✅ Notepad.pw Link: https://notepad.pw/p5Achs3EAtvkDLsbUxOg
+
 ✅ Competitive Coding Exam-1 (For Beginners): https://www.hackerrank.com/competitive-coding-exam-1-for-beginners
+
 ✅ Competitive Coding Exam-2 (For Beginners): https:www.hackerrank.com/competitive-coding-exam-2-for-beginners->
+
 ✅ Hackerrank Submission Status: https://bit.ly/3hPmAKJ
+
 ✅ All Competitive Exam Notifications Available at: https://clist.by/
+
 ✅ Competitive Coding Tutorial Link: https://workat.tech/
+
 ✅ Competitive Coding Exam Portal Link: https://vjudge.net/
+
 ✅ CodeChef Problem List: https://www.codechef.com/YTPP001/
+
 ✅ Find Second Largest: https://www.codechef.com/problems/SECLAR
+
 ✅ Closest Divisor: https://www.codechef.com/YTPP001/problems/CLODIV (Only Run)
+
 ✅ Odd Even Multiple: https://www.codechef.com/YTPP001/problems/EOMUL (Only Run)
+
 ✅ Not Last: https://www.codechef.com/YTPP001/problems/LSTSEV (Only Run)
+
 ✅ Raju and His Trip: https://www.codechef.com/YTPP001/problems/VALTRI (Only Run)
+
 ✅ Is Palindrome: https://www.codechef.com/YTPP001/problems/NUMPLIN (Only Run)
+
 ✅ Full Barrier Alchemist: https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
+
 ✅ Cats and Dogs: https://www.codechef.com/PRACTICE/problems/CATSDOGS
+
 ✅ Is Palindrome: https://www.codechef.com/YTPP001/problems/NUMPLIN
+
 ✅ Sum of Digits: https://www.codechef.com/problems/FLOW006
+
 ✅ Add Digits (Digital Root): https://leetcode.com/problems/add-digits/description/
+
 ✅ Distinct Pairs: https://www.codechef.com/learn/course/cpp/LRNDSA03/problems/DPAIRS
+
 ✅ Hardest Problem Bet: https://www.codechef.com/problems/HARDBET
+
 ✅ HCF and LCM: https://www.codechef.com/YTPP001/problems/FDGHLM
+
 ✅ CodeChef Various Problem Solving (in Java) GitHub: https://github.com/charles-wangkai/codechef
+
 ✅ Other Codechef Practice Problems: https://www.codechef.com/YTPP001?order=asc&page=1&sortBy=name
+
 ✅ DSA Playlist on YouTube: https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+
 ## Classwork Resources
 <img width="447" height="223" alt="image" src="https://github.com/user-attachments/assets/7948d6af-ec3a-47ba-a48a-ffd59129f164" />
 
 ✅ Anaconda Download Link:
 https://www.anaconda.com/products/distribution
+
 ✅ How to Install Anaconda on Windows 10 (2022):
 https://www.youtube.com/watch?v=UTqOXwAi1pE
+
 ✅ How to uninstall Anaconda completely from Windows 10:
 https://www.youtube.com/watch?v=OUkHXMwu-JY
+
 ✅ Online Python Editors:
 https://onecompiler.com/
 https://www.onlinegdb.com/
+
 ✅ Python Study Material Links:
+
 Python for you and me: https://pymbook.readthedocs.io/en/latest/
+
 Python Practice Book: https://anandology.com/python-practice-book/index.html
+
 Learn Python Programming (programmiz.com): https://www.programiz.com/python-programming
+
 Learn Python Programming (data-flair): https://data-flair.training/blogs/python-tutorial/
+
 ✅ MS-Office/O365 Reference Tutorial Links -
+
 ✅ MS-Office 2007: https://edu.gcfglobal.org/en/topics/office2007/
+
 MS-Office 2010: https://edu.gcfglobal.org/en/topics/office2010/
+
 MS-Office 2013: https://edu.gcfglobal.org/en/topics/office2013/
+
 MS-Office 2016: https://edu.gcfglobal.org/en/topics/office2016/
+
 MS-Excel Formulas: https://edu.gcfglobal.org/en/excelformulas/
+
 50 Tips to Master Excel ebook: https://app.box.com/folder/282270879960
+
 How to remove password from an Excel Worksheet: https://www.youtube.com/watch?v=fsVb6id97_E&list=PLmkaw6oRnRv9uEamCt-PXS-bP-rmoxcLc&index=3
+
 MS-Excel Cheat Sheet: https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
+
 ## Classwork Tracing
 ### Towards Growth and Towards Success
 <img width="348" height="385" alt="image" src="https://github.com/user-attachments/assets/4ce1ab2f-caac-4194-bce1-b19df6a0eb2c" />
+
 ## Tutorial on Python
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
