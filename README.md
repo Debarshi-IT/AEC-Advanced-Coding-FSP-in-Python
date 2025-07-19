@@ -4,8 +4,6 @@
 
 ✅ Competitive Coding Exam-2 (For Beginners): https:www.hackerrank.com/competitive-coding-exam-2-for-beginners
 
-✅ Hackerrank Submission Status: https://bit.ly/3hPmAKJ
-
 ✅ All Competitive Exam Notifications Available at: https://clist.by/
 
 ✅ Competitive Coding Tutorial Link: https://workat.tech/
