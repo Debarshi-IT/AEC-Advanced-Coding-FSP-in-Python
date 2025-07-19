@@ -1,13 +1,8 @@
 # Competitive_Coding_AEC_July_2025_Batch_4
-✅ BitBucket Link: https://bitbucket.org/toarnabtrainer/aec_cc_batch_4_july_2025/src/main/ or https://tinyurl.com/z78xmbms
-
-✅ Online Session MS-Teams Link for all sessions: https://tinyurl.com/2s3yxjnr
-
-✅ Notepad.pw Link: https://notepad.pw/p5Achs3EAtvkDLsbUxOg
 
 ✅ Competitive Coding Exam-1 (For Beginners): https://www.hackerrank.com/competitive-coding-exam-1-for-beginners
 
-✅ Competitive Coding Exam-2 (For Beginners): https:www.hackerrank.com/competitive-coding-exam-2-for-beginners->
+✅ Competitive Coding Exam-2 (For Beginners): https:www.hackerrank.com/competitive-coding-exam-2-for-beginners
 
 ✅ Hackerrank Submission Status: https://bit.ly/3hPmAKJ
 
